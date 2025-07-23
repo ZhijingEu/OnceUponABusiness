@@ -5,9 +5,13 @@ These are the card arts for a simple collaborative business storytelling game I 
 Play it here on PlayingCards.io : https://playingcards.io/r42gbz
 
 🧑‍💼 Why This Works Well In Corporate Settings
+
 -Encourages creative thinking about familiar environments
+
 -Builds storytelling fluency for real business narratives (e.g., change, conflict, resolution)
+
 -Low barrier for entry—fun, light-hearted, and collaborative
+
 -Excellent for team-building, onboarding, or workshops on communication, leadership, or innovation
 
 Admittedly it is a variant of the excellent Once Upon A Time card game but with a business setting as I was getting tired to having to say things like "ok, the troll is the line manager card and the enchanted sword is the spreadsheet -uh wait no, I think it's that's the golden goose"
