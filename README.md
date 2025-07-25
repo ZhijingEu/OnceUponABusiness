@@ -18,43 +18,64 @@ Admittedly it is a variant of the excellent Once Upon A Time card game but with 
 
 Please support Atlas Games who made the original Once Upon A Time Game https://atlas-games.com/onceuponatime/
 
-
-Once Upon a Business – Gameplay Guide
-=====================================
+🕹️Once Upon a Business – Gameplay Guide
+=========================================
 🎯 Objective
 Tell a compelling (and possibly chaotic) business-themed story using your hand of cards. Be the first to play all your cards and end the story coherently — or at least hilariously.
 
 🧩 Setup
 Shuffle the full deck.
-Deal 8 cards to each player (a mix of Characters, Events, Objects, Aspects, and optionally an Ending).
+
+Deal 7 cards to each player (a mix of Characters, Events, Objects, Aspects, and optionally an Ending).
+
 Set aside the remaining deck as a draw pile.
 
 🔄 Turn Structure
-Narrate the Story
-The first player becomes the storyteller.
-Begin a workplace tale (e.g., “At the quarterly town hall, the CFO announced…”).
-As you narrate, play cards from your hand that fit naturally into the story.
+1) Narrate the Story
 
-Play Cards
-Cards must be integrated meaningfully — no rattling off cards without context!
-You can play as many cards on your turn as you can justify through your narration.
+The first player becomes the active storyteller.
 
-End Your Turn
-When you're out of ideas or cards to play, pass to the next player.
-The next player must continue the same story, building on what’s come before.
+Begin a workplace tale with a card (e.g., “Once upon a business... it was Q4, and the reorg was about to shake things up...”).
 
-🔁 Interruptions (Optional Rule)
-If another player hears a perfect opportunity to play one of their cards (e.g. “Budget Cut” right after someone mentions overspending), they can interrupt.
-They must take over the story immediately and continue for at least a few sentences before passing the turn.
+Play cards from your hand that fit organically into the story.
+
+2) Play as Many Cards as You Can
+
+You may play multiple cards on your turn, as long as they make narrative sense.
+
+You are encouraged to build momentum — the goal is to use your cards by embedding them into the unfolding story.
+
+3) End Your Turn
+
+If you run out of ideas, pass your turn. When you pass:
+→ Draw 1 new card from the deck
+→ Discard 1 card from your hand (swap action)
+
+4) Interruptions (Optional Rule)
+
+Any player may interrupt the active storyteller if they have a card that logically fits with what is being said.
+
+The interrupter becomes the new active player and continues the story from there.
+
+5) Challenges
+
+If the group agrees that the story has become incoherent, repetitive, or inconsistent, they may issue a challenge.
+
+If the challenge is upheld (majority vote), the current storyteller:
+→ Must end their turn immediately and pass to the next player
+→ And draw 1 card as a penalty
 
 🏁 Ending the Story
-If a player has an Ending card, they may play it only when the story feels complete.
-The story must feel like it wraps up logically — “And that's how we launched the product that saved the company.”
-If no Ending card is played, the tale continues until someone runs out of cards and improvises a satisfying close.
+If you have an Ending card, you may play it when the story reaches a satisfying or ironic conclusion.
+
+You can’t force an ending — it has to feel earned (or at least funny).
+
+If no one has (or plays) an Ending card, the story continues until a player runs out of cards and improvises a convincing finish.
 
 🏆 Winning
-The first player to use all their cards and bring the story to a fitting close wins.
-Alternatively, just enjoy the ride — the real win is laughing through an absurdly realistic corporate saga.
+The first player to use all their cards and bring the story to a logical or entertaining conclusion wins.
+
+Or just embrace the chaos — the real win is creating a corporate fable you’ll be laughing about later.
 
 Example Business "Tale"
 =======================
