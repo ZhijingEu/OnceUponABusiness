@@ -69,6 +69,7 @@ If the challenge is upheld (majority vote), the current storyteller:
 → And draw 1 card as a penalty
 
 🏁 Ending the Story
+
 If you have an Ending card, you may play it when the story reaches a satisfying or ironic conclusion.
 
 You can’t force an ending — it has to feel earned (or at least funny).
