@@ -21,9 +21,11 @@ Please support Atlas Games who made the original Once Upon A Time Game https://a
 🕹️Once Upon a Business – Gameplay Guide
 =========================================
 🎯 Objective
+
 Tell a compelling (and possibly chaotic) business-themed story using your hand of cards. Be the first to play all your cards and end the story coherently — or at least hilariously.
 
 🧩 Setup
+
 Shuffle the full deck.
 
 Deal 7 cards to each player (a mix of Characters, Events, Objects, Aspects, and optionally an Ending).
@@ -31,6 +33,7 @@ Deal 7 cards to each player (a mix of Characters, Events, Objects, Aspects, and 
 Set aside the remaining deck as a draw pile.
 
 🔄 Turn Structure
+
 1) Narrate the Story
 
 The first player becomes the active storyteller.
@@ -73,6 +76,7 @@ You can’t force an ending — it has to feel earned (or at least funny).
 If no one has (or plays) an Ending card, the story continues until a player runs out of cards and improvises a convincing finish.
 
 🏆 Winning
+
 The first player to use all their cards and bring the story to a logical or entertaining conclusion wins.
 
 Or just embrace the chaos — the real win is creating a corporate fable you’ll be laughing about later.
