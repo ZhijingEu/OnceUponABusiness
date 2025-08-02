@@ -14,9 +14,9 @@ Play it here on PlayingCards.io : https://playingcards.io/r42gbz
 
 -Excellent for team-building, onboarding, or workshops on communication, leadership, or innovation
 
-Admittedly it is a variant of the excellent Once Upon A Time card game but with a business setting as I was getting tired to having to say things like "ok, the troll is the line manager card and the enchanted sword is the spreadsheet -uh wait no, I think it's that's the golden goose"
+Admittedly it is heavily inspired by the excellent Once Upon A Time card game but with a business setting. Please support Atlas Games who made the original Once Upon A Time Game https://atlas-games.com/onceuponatime/
 
-Please support Atlas Games who made the original Once Upon A Time Game https://atlas-games.com/onceuponatime/
+All card art was generated using Dall E3 AND/OR royalty free stock images from Pexels.com and Vecteezy.com 
 
 🕹️Once Upon a Business – Gameplay Guide
 =========================================
