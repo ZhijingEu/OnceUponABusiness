@@ -1,6 +1,6 @@
 📖 Once Upon a Business
 ========================
-These are the card arts for a simple collaborative business storytelling game I cooked up
+Introducing a simple collaborative business storytelling game that you can play in between meetings 😉 to learn how to tell better stories (and have a bit of fun) 
 
 Play it here on PlayingCards.io : https://playingcards.io/r42gbz
 
